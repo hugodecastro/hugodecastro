@@ -40,7 +40,7 @@
 <img align="left" alt="hugodecastro's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hugodecastro&show_icons=true&hide_border=true&count_private=true&theme=nord" />
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hugodecastro&repo=docker-completo&show_owner=true&theme=nord)](https://github.com/hugodecastro/docker-completo)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hugodecastro&repo=RestWithSpringBootUdemy&show_owner=true&theme=nord)](https://github.com/hugodecastro/RestWithSpringBootUdemy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hugodecastro&repo=api-rest_flask&show_owner=true&theme=nord)](https://github.com/hugodecastro/api-rest_flask)
 
 <br />
 <br />
