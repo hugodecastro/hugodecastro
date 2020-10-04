@@ -19,6 +19,7 @@
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
 [<img align="left" alt="C/C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][c/c++]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
+[<img align="left" alt="JupyterNotebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />][jupyternotebook]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
@@ -40,6 +41,8 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hugodecastro&repo=docker-completo&show_owner=true&theme=nord)](https://github.com/hugodecastro/docker-completo)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hugodecastro&repo=api-rest_flask&show_owner=true&theme=nord)](https://github.com/hugodecastro/api-rest_flask)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hugodecastro&repo=api-rest_flask&show_owner=true&theme=nord)](https://github.com/hugodecastro/bootcamp-ml_got_dataset)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hugodecastro&repo=api-rest_flask&show_owner=true&theme=nord)](https://github.com/hugodecastro/solid-completo)
 
 <br />
 <br />
@@ -48,7 +51,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugodecastro&theme=nord)](https://github.com/hugodecastro/hugodecastro)
 
-[instagram]: https://www.instagram.com/hugo.castrosr/
 [linkedin]: https://www.linkedin.com/in/hugo-de-castro-1a8901149/
 [visualstudiocode]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png
 [java]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png
