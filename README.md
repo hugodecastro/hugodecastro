@@ -31,15 +31,13 @@
 [<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />][aws]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 [<img align="left" alt="JupyterNotebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />][jupyternotebook]
+
+<br />
+<br />
+
 ---
 
-<br />
-<br />
-
 <img align="left" alt="hugodecastro's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hugodecastro&show_icons=true&hide_border=true&count_private=true&theme=nord" />
-
-<br />
-<br />
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hugodecastro&repo=bootcamp-ml_got_dataset&show_owner=true&theme=nord)](https://github.com/hugodecastro/bootcamp-ml_got_dataset)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hugodecastro&repo=solid-completo&show_owner=true&theme=nord)](https://github.com/hugodecastro/solid-completo)
