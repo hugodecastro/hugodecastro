@@ -19,7 +19,6 @@
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
 [<img align="left" alt="C/C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][c/c++]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
-[<img align="left" alt="JupyterNotebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />][jupyternotebook]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
@@ -31,18 +30,20 @@
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
 [<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />][aws]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
-
-<br />
-<br />
-
+[<img align="left" alt="JupyterNotebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />][jupyternotebook]
 ---
+<br />
+<br />
 
 <img align="left" alt="hugodecastro's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hugodecastro&show_icons=true&hide_border=true&count_private=true&theme=nord" />
 
+<br />
+<br />
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hugodecastro&repo=docker-completo&show_owner=true&theme=nord)](https://github.com/hugodecastro/docker-completo)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hugodecastro&repo=api-rest_flask&show_owner=true&theme=nord)](https://github.com/hugodecastro/api-rest_flask)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hugodecastro&repo=api-rest_flask&show_owner=true&theme=nord)](https://github.com/hugodecastro/bootcamp-ml_got_dataset)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hugodecastro&repo=api-rest_flask&show_owner=true&theme=nord)](https://github.com/hugodecastro/solid-completo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hugodecastro&repo=bootcamp-ml_got_dataset&show_owner=true&theme=nord)](https://github.com/hugodecastro/bootcamp-ml_got_dataset)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hugodecastro&repo=solid-completo&show_owner=true&theme=nord)](https://github.com/hugodecastro/solid-completo)
 
 <br />
 <br />
@@ -67,3 +68,4 @@
 [docker]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png
 [aws]: https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png
 [terminal]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png
+[jupyternotebook]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png
