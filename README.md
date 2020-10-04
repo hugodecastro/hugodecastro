@@ -37,7 +37,6 @@
 <br />
 
 <img align="left" alt="hugodecastro's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hugodecastro&show_icons=true&hide_border=true&count_private=true&theme=nord" />
----
 
 <br />
 <br />
