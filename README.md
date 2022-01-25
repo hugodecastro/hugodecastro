@@ -1,8 +1,8 @@
 ### Hi there, I'm Hugo 👋
 
 
-## University Student :mortar_board: & Sofware Developer :computer:
-- 🔭 I’m currently working on backend projects using Python/Groovy/ELK & personal projects
+## Sofware Developer :computer:
+- 🔭 I’m currently working on backend projects using Python/Airflow/AWS & personal projects
 - 🌱 I’m always learning :book:
 - 🤔 I’m looking for help with becoming a better developer every day
 - ⚡ Fun fact: I like to spent my free time drawing / photo editing & playing bass / drums
