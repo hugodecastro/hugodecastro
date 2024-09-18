@@ -4,12 +4,12 @@
 ## Sofware Developer :computer:
 - 🔭 I’m currently working on backend projects using Python/Airflow/AWS & personal projects
 - 🌱 I’m always learning :book:
-- 🤔 I’m looking for help with becoming a better developer every day
-- ⚡ Fun fact: I like to spent my free time drawing / photo editing & playing bass / drums
+- 🤔 I’m looking for contribute in open source projects
+- ⚡ Fun fact: I have 6 cats :cat: and know how to play drums 🥁
 
 ### Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://img.jsdelivr.com/github.com/linkedin.png" />][linkedin]
 
 <br />
 
